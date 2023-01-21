@@ -1,0 +1,2 @@
+# nlp_stop_French_words
+NLP_Stop_Words
